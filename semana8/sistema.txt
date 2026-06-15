@@ -1,0 +1,8 @@
+Comando uname -a:
+Muestra información del sistema operativo Linux, versión del kernel y arquitectura.
+
+Comando whoami:
+Muestra el nombre del usuario que tiene la sesión iniciada.
+
+Importancia:
+Permite conocer características del sistema para administrarlo correctamente, solucionar problemas y realizar tareas de mantenimiento.
